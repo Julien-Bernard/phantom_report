@@ -1,2 +1,5 @@
 # local config file
 config.py
+
+# Visual Studio Code
+.vscode
