@@ -16,10 +16,10 @@ On CentOS:
 - `pip3 install WeasyPrint`
 
 ## Installation
-`git clone https://github.com/Julien-Bernard/phantom_report.git`
-`cd phantom_report`
-`cp config_ori.py config.py`
-`vim config.py` (edit settings)
+- `git clone https://github.com/Julien-Bernard/phantom_report.git`
+- `cd phantom_report`
+- `cp config_ori.py config.py`
+- `vim config.py` (edit settings)
 
 
 ## Usage
